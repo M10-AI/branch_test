@@ -11,4 +11,7 @@ print(1+2)
 #third
 
 
-# fourt
+
+# fourth
+def getFormatedGreeting(x):
+    return f"Hi {x}, how are you?"
